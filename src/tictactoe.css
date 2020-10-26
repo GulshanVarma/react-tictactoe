@@ -5,3 +5,14 @@
     padding: 16px;
     text-align: center;
 }
+button{
+    padding: 5px 2px 5px 2px;
+    border-color: blue;
+    background-color: lightskyblue;
+    color: white;
+    padding: 25px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: x-large;
+}
