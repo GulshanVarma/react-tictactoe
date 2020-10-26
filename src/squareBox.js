@@ -1,7 +1,9 @@
 import React from 'react'
 
 const squareBox = (props) => {
-    return <h1>in square</h1>
+    return (<div id= {props.id} onClick={props.onclickprops}>
+        {props.value}
+    </div>)
 }
 
 export default squareBox;
